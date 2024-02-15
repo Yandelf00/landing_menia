@@ -6,8 +6,8 @@ export default function About() {
         <div>
             <h1 className='text-[50px] w-[400px] text-white hover:text-[#DAFED3] transition duration-300 ease-in-out cursor-pointer'>About Us</h1>
         </div>
-        <div className='flex w-full bg-white min-h-[600px] mt-10 justify-center'>
-                
+        <div className='flex w-full bg-white min-h-[600px] rounded-3xl mt-10 justify-center'>
+  
         </div>
     </div>
   )
