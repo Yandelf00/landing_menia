@@ -8,7 +8,7 @@ export default function Hero() {
                 <h1 className='text-white text-[100px] drop-shadow-[0_1.5px_1.5px_rgba(0,0,0,1)]'>ChessMania</h1>
             </div>
             <div className='text-white mt-7 text-[30px]'>
-                    Lorem ipsum dolor sit amet, consectetur<br/>adipiscing elit. Sed non risus!
+                   A game inspired from both Chess and Fire Emblem<br/> We hope you guys enjoy it!
             </div>
         </div>
         <div className='flex flex-row w-[330px] justify-between'>
