@@ -14,6 +14,7 @@ export default function More() {
           follow us for more ! <br/>
           Yandelf : <a className='text-blue-400' href="https://x.com/idonhaveaname7?t=2P95ehPqg0QPiCjl0ItXTA&s=09" target="_blank">Twitter</a> | <a className='text-blue-400' href="https://www.linkedin.com/in/zakaria-afyf-b70786266/" target="_blank">LinkedIn</a> <br/>
           Yeeloman : <a className='text-blue-400' href="https://twitter.com/Yeeloman" target="_blank">Twitter</a> | <a className='text-blue-400' href="https://www.linkedin.com/in/mohamed-kaddouri-9a774626b/" target="_blank">LinkedIn</a>
+          Repository : <a className='text-blue-400' href="https://github.com/Yeeloman/Chessmania" target="_blank">Chessmania</a>
         </p>
         </div>
         
